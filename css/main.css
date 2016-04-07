@@ -1,0 +1,255 @@
+.fa{
+	color: white;
+	font-size: 10px;
+	float: left;
+	margin-left: 40px;
+}
+h3{
+	color:white;
+	float: left;
+	margin-left: 30px;
+	text-shadow:2px 2px 4px #000;
+}
+.opacity{
+	background-color: black;
+	opacity: 0.7;
+	height: 550;
+	width: 100%;
+	background-size: cover;
+}
+.menu{
+	float: left;
+    margin: 28px;
+    margin-top: 10px;
+    text-shadow:2px 2px 4px #000;
+
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.menus{
+	background-image: url(../img/background/hero.jpg);
+	height: 550px;
+	background-size: cover;
+}
+.arriba{
+	text-align: center;
+	padding: 120px;
+	text-shadow:2px 2px 4px #000;
+}
+h1{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	padding: 30px;
+}
+.parra{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+	padding: 30px;
+}
+.boton{
+    color: white;
+    font-size: 15px;
+    width: 110px;
+    height: 35px;
+    background-color:#333333 ;
+    text-align: center; 
+    float: left;
+    margin-left: 320px;
+    padding: 10px;
+    text-shadow:2px 2px 4px #000;
+   }
+.boton2{
+    color: white;
+    font-size: 15px;
+    height: 35px;
+    width: 110px;
+    background-color: #333333;
+    opacity: 0.4;
+    text-align: center;
+    float: left;
+    margin-left: 20px;
+    padding: 10px;
+    text-shadow:2px 2px 4px #000;
+   }
+ h4{
+ 	color:black;
+   }
+.para{
+	text-align: center;
+	color: gray;
+	padding: 20px;
+}
+.ion{
+	color:#008080;
+	font-size: 40px;
+	padding: 20px;
+}
+.compu{
+	background-image: url(../img/laptop-features.png);
+	height: 450px;
+	width: 60%;
+	text-align: center;
+	background-size: 100%;
+	background-repeat: none;
+
+}
+.para2{
+	text-align: left;
+	color: gray;
+	padding: 20px;
+}
+h2{
+	color:gray;
+	padding: 10px;
+}
+.gris{
+	background-color: #f4f4f4;
+	text-align: center;
+}
+.boton3{
+	background-color: #008080;
+	padding: 10px;
+	float: left;
+	margin-left: 360px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+.negro{
+	color: black;
+}
+.boto4{
+	background-color: white;
+	padding: 10px;
+	float:left;
+	margin-right: 10px;
+	margin-bottom: 20px;
+}
+.letras{
+	color: gray;
+	text-align: center;
+}
+.boton5{
+    color: white;
+    font-size: 17px;
+    width: 125px;
+    height: 45px;
+    background-color:#333333 ;
+    text-align: center; 
+    float: left;
+    text-align: center;
+    padding: 20px;
+    margin-left: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+   }
+
+.marco{ 
+   padding:8px 8px 20px 8px; 
+   background-color: #ffffff; 
+   width: 521px; 
+   border: 1px solid #999999; 
+   margin-bottom: 30px;
+   margin-left: 25px;
+} 
+.city{
+	background-image: url(../img/background/city.jpg);
+	background-size: cover;
+	height: 400px;
+	background-repeat: no-repeat;
+	margin-left: 0px;
+}
+.call{
+	text-align: center;
+    padding: 20px;
+    margin-left: 460px;
+    color: white;
+    font-size: 28px;
+    text-shadow:2px 2px 4px #000;
+}
+.parra2{
+	font-size: 28px;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin: 100px 130px 20px 130px;
+    text-shadow:2px 2px 4px #000;
+}
+.package {
+	background-color: #f4f4f4;
+	margin-top: 70px;
+	padding-top: 30px;
+	padding-bottom: 80px;
+	padding-left: 50px;
+	padding-right: 50px;
+	text-align: center;
+}
+.package .boton7 {
+	text-align: center;
+	color: #585858;
+	margin-bottom: 20px;
+}
+.package h5{
+	color: #848484;
+	margin-bottom: 50px;
+}
+.Blanco {
+	background-color: white;
+	padding: 15px;
+	border: 1px solid #e3e3e3;	
+}
+.oscuro {
+	background-color: #2a3745;
+	color: white;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.oscuro .boton7{
+	padding-top: 10px;
+	color: white;
+}
+.claro {
+	background-color: #f0f0f0;
+	color: #545454;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	margin-bottom: 20px;
+}
+.claro2 {
+	background-color: #00c1c0;
+	color: white;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.claro2 .boton7{
+	padding-top: 10px;
+	color: white;
+}
+.strong {
+	font-size: 30px;
+}
+.contenido p {
+	color: #868686;
+	font-size: 14px;
+}
+.contenido hr {
+	width: 210px;
+	border: 0.5px solid #eeeeee;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+.boton8 {
+	background-color: #252e38;
+	padding: 10px 25px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	font-weight: bold;
+}
+.boton8 a {
+	text-decoration: none;
+	color: #A4A4A4;
+}
